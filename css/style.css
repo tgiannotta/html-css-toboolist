@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenitore{
+    width: 90%;
+    background-color: aqua;
+}
+/*HEADER*/
+.contenitore-main{
+    background-color: lime;
+    width: 1000px;
+    margin: auto;
+    margin-top: 150px;
+}
+.btn1{
+    background-color: magenta;
+    border: 3px solid orange;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.btn2{
+    background-color: orange;
+    border: 3px solid magenta;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
