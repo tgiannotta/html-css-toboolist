@@ -50,6 +50,8 @@ hr{
     color: #444851;
     font-size: 25px;
     font-weight: bolder;
+    
+    
 
 }
 .remove-style{
@@ -58,6 +60,7 @@ hr{
 .font-lista{
     font-size: 18px;
     font-weight: normal;
+    
 }
 .simboli{
     
@@ -78,4 +81,42 @@ li{
 #check{
     border: 2px solid #7eccba;
     color: #7eccba;
+}
+.btn-list{
+    
+    border-radius: 10px;
+    padding: 6px;
+    margin-left: 10px;
+    color: white;
+    font-size: 13px;
+    font-weight: bolder;
+}
+#btn-editorial{
+    border: 1px solid #45abea;
+    background-color: #45abea;
+}
+#btn-goals{
+    border: 1px solid #9c72e4;
+    background-color: #9c72e4;
+}
+
+#btn-recruit{
+    border: 1px solid #64c0a9;
+    background-color: #64c0a9
+}
+
+#btn-mobile{
+    border: 1px solid #f29e33;
+    background-color: #f29e33;
+}
+
+#btn-website
+{
+    border: 1px solid #d863a1;
+    background-color: #d863a1;
+}
+
+#btn-sales{
+    border: 1px solid #b0c926;
+    background-color: #b0c926;
 }
