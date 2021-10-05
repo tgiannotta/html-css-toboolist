@@ -16,7 +16,7 @@ hr{
 }
 /*HEADER*/
 .contenitore-main{
-    background-color: lime;
+    /* background-color: lime; */
     width: 1000px;
     height: 1000px;
     margin: auto;
@@ -47,8 +47,35 @@ hr{
     list-style: none;
 }
 .head-list{
+    color: #444851;
+    font-size: 25px;
+    font-weight: bolder;
 
 }
 .remove-style{
     list-style: none;
+}
+.font-lista{
+    font-size: 18px;
+    font-weight: normal;
+}
+.simboli{
+    
+    font-size: 15px;
+    border-radius: 50%;
+    padding: 3px;
+    margin-right: 10px;
+    
+    font-weight: bolder;
+}
+li{
+    margin-bottom: 10px;
+}
+#cross{
+    border: 2px solid #ec554c;
+    color: #ec554c;
+}
+#check{
+    border: 2px solid #7eccba;
+    color: #7eccba;
 }
