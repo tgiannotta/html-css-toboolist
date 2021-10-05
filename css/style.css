@@ -42,3 +42,13 @@ hr{
     color: lightgrey;
     border: 1px solid lightgrey;
 }
+.lista{
+    margin-left: 20px;
+    list-style: none;
+}
+.head-list{
+
+}
+.remove-style{
+    list-style: none;
+}
