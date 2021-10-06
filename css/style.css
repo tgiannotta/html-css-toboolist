@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* COMMON */
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -14,7 +15,21 @@ hr{
     border: 1px solid black;
     margin-top: 10px;
 }
+
 /*HEADER*/
+.vertical{
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo img{
+    width: 80px;
+    margin: 10px 5px 10px 20px;
+}
+.logo-text{
+    font-size: 40px;
+    font-weight: bolder;
+}
+/* MAIN */
 .contenitore-main{
     /* background-color: lime; */
     width: 1000px;
