@@ -41,6 +41,9 @@ hr{
     margin: auto;
     margin-top: 150px;
 }
+.item-arrow{
+    font-size: 35px;
+}
 .btn{
     
     border: 3px solid lightgrey;
@@ -69,11 +72,7 @@ hr{
     color: #444851;
     font-size: 25px;
     font-weight: bolder;
-    
-    
-    
-
-}
+ }
 .remove-style{
     list-style: none;
 }
