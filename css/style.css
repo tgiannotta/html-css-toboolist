@@ -6,14 +6,18 @@
 /* COMMON */
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #f6f8f9;
 }
 .contenitore{
     width: 90%;
-    background-color: aqua;
+    background-color: white;
 }
 hr{
-    border: 1px solid black;
+    border: 2px solid lightgray;
     margin-top: 10px;
+}
+.mrgn-bot{
+    margin-bottom: 10px;
 }
 
 /*HEADER*/
@@ -31,8 +35,8 @@ hr{
 }
 /* MAIN */
 .contenitore-main{
-    /* background-color: lime; */
-    width: 1000px;
+    background-color: white;
+    width: 1200px;
     height: 1000px;
     margin: auto;
     margin-top: 150px;
@@ -67,6 +71,7 @@ hr{
     font-weight: bolder;
     
     
+    
 
 }
 .remove-style{
@@ -87,8 +92,9 @@ hr{
     font-weight: bolder;
 }
 li{
-    margin-bottom: 10px;
-}
+    margin-bottom: 40px;
+    margin-top: 30px;
+}    
 #cross{
     border: 2px solid #ec554c;
     color: #ec554c;
