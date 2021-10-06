@@ -36,8 +36,7 @@ hr{
 /* MAIN */
 .contenitore-main{
     background-color: white;
-    width: 1200px;
-    height: 1000px;
+    width: 70%;
     margin: auto;
     margin-top: 150px;
 }
