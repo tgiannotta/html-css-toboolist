@@ -27,10 +27,10 @@ hr{
 }
 .logo img{
     width: 80px;
-    margin: 10px 5px 10px 20px;
+    padding: 10px 5px 10px 20px;
 }
 .logo-text{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bolder;
 }
 /* MAIN */
@@ -45,8 +45,6 @@ hr{
     font-size: 35px;
 }
 .btn{
-    
-    border: 3px solid lightgrey;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
@@ -74,7 +72,7 @@ hr{
     font-weight: bolder;
  }
 .remove-style{
-    list-style: none;
+    list-style-type: none;
 }
 .font-lista{
     font-size: 18px;
@@ -94,11 +92,11 @@ li{
     margin-bottom: 40px;
     margin-top: 30px;
 }    
-#cross{
+.cross{
     border: 2px solid #ec554c;
     color: #ec554c;
 }
-#check{
+.check{
     border: 2px solid #7eccba;
     color: #7eccba;
 }
@@ -111,32 +109,32 @@ li{
     font-size: 13px;
     font-weight: bolder;
 }
-#btn-editorial{
+.btn-editorial{
     border: 1px solid #45abea;
     background-color: #45abea;
 }
-#btn-goals{
+.btn-goals{
     border: 1px solid #9c72e4;
     background-color: #9c72e4;
 }
 
-#btn-recruit{
+.btn-recruit{
     border: 1px solid #64c0a9;
     background-color: #64c0a9
 }
 
-#btn-mobile{
+.btn-mobile{
     border: 1px solid #f29e33;
     background-color: #f29e33;
 }
 
-#btn-website
+.btn-website
 {
     border: 1px solid #d863a1;
     background-color: #d863a1;
 }
 
-#btn-sales{
+.btn-sales{
     border: 1px solid #b0c926;
     background-color: #b0c926;
 }
